@@ -1,0 +1,15 @@
+{
+  "name": "GLand",
+  "version": "1.0.0",
+  "description": "Computer Graphics 2020 NNU Project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Muath & Osama",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
